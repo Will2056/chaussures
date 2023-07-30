@@ -1,33 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Mon Site de Chaussures</title>
-</head>
-<body>
-    <header>
-        <h1>Mon Site de Chaussures</h1>
-    </header>
-    
-    <main>
-        <h2>Nouveautés</h2>
-        <div class="produit">
-            <img src="chemin_vers_image1.jpg" alt="Chaussure 1">
-            <h3>Chaussure 1</h3>
-        </div>
-        <div class="produit">
-            <img src="chemin_vers_image2.jpg" alt="Chaussure 2">
-            <h3>Chaussure 2</h3>
-        </div>
+- marque: Nike
+  modele: Air Max 1
+  couleur: Blanc
+  prix: 100
 
-        <h2>Promotions</h2>
-        <div class="produit">
-            <img src="chemin_vers_image3.jpg" alt="Chaussure 3">
-            <h3>Chaussure 3</h3>
-        </div>
-    </main>
+- marque: Adidas
+  modele: Superstar
+  couleur: Noir
+  prix: 90
 
-    <footer>
-        <p>&copy; 2023 Mon Site de Chaussures. Tous droits réservés.</p>
-    </footer>
-</body>
-</html>
+- marque: Puma
+  modele: Suede Classic
+  couleur: Bleu
+  prix: 80
